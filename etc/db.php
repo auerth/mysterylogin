@@ -1,5 +1,5 @@
 <?php
-// Create connection remove "_" from name
+// Create connection remove ".example" from name
 
 $db = new mysqli("localhost", "sae", "sae2021!","sae");
 if (!$db) {
