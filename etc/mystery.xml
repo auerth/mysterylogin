@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mysteries>
+    <mystery id="user1">
+        <question>Jeden Freitag geht Tim in sein Lieblingscafé.
+Jeden Monat sucht er das Café viermal auf.
+Aber manche Monate haben mehr Freitage als andere, und dann geht Tim häufiger aus.
+Was ist die Höchstzahl solcher Monate im Jahr?</question>
+        <answer>5</answer>
+        <images>
+            <image>
+            </image>
+        </images>
+    </mystery>
+    <mystery id="user2">
+        <question>Peters Mutter hat 4 Kinder. Das erste Kind wurde auf den Namen „Januar“ getauft. Das zweite Kind hat den Namen „März“ bekommen. Das dritte Kind hört auf den Namen „Mai“. Wie heist das vierte Kind?</question>
+        <answer>peter</answer>
+        <images>
+            <image>
+            </image>
+        </images>
+    </mystery>
+    <mystery id="user3">
+        <question>Welches Wort in einem Wörterbuch aus dem Jahr 2019 wird falsch geschrieben?</question>
+        <answer>falsch</answer>
+        <images>
+            <image>
+            </image>
+        </images>
+    </mystery>
+    <mystery id="pw1">
+        <question>Albert lügt montags, dienstags und mittwochs.
+An allen anderen Wochentagen sagt er die Wahrheit.
+Karl lügt donnerstags, freitags und samstags.
+An allen anderen Wochentagen sagt er die Wahrheit.
+Albert: „Ich habe gestern gelogen“
+Karl: „Ich habe gestern auch gelogen“
+Welcher Wochentag war gestern?</question>
+        <answer>mittwoch</answer>
+        <images>
+            <image>
+            </image>
+        </images>
+    </mystery>
+    <mystery id="pw2">
+        <question>Auf dem Parkplatz waren 3 rote, 4 gelbe und 5 grüne Autos.
+Dann sind 8 Autos weggefahren.
+Von welcher Farbe gibt es jetzt auf jeden Fall weniger als vorher?</question>
+        <answer>grün</answer>
+        <images>
+            <image>
+            </image>
+        </images>
+    </mystery>
+    <mystery id="pw3">
+        <question>Gerhard wird heute 36 Jahre alt. Er ist damit doppelt so alt, wie Paul war, als Gerhard so alt war, wie Paul heute ist. Bestimmen Sie, wie alt Paul heute ist!</question>
+        <answer>27</answer>
+        <images>
+            <image>
+            </image>
+        </images>
+    </mystery>
+</mysteries>

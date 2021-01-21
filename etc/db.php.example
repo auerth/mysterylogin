@@ -1,0 +1,8 @@
+<?php
+// Create connection remove ".example" from name
+
+$db = new mysqli("localhost", "dbuser", "dbpassword","dbname");
+if (!$db) {
+    die("Connection failed: " . mysqli_connect_error());
+}
+?>
